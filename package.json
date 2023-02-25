@@ -1,0 +1,25 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axisogai/test_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axisogai/test_app/issues"
+  },
+  "homepage": "https://github.com/axisogai/test_app#readme",
+  "dependencies": {
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
